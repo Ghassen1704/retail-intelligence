@@ -1,4 +1,4 @@
-# TP J1 — Retail Intelligence Platform
+#Retail Intelligence Platform
 ### UC-01 & UC-02 — IPSSI Mastère Dev, Data & IA (5e année)
 
 **Auteur** : Ghassen
