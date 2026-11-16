@@ -1,0 +1,17 @@
+=== Date range (min/max ss_sold_date_sk) ===
+min: 36890 max: 38697
+=== Rows per store (top 12) ===
+  57589 7
+  56211 4
+  56040 9
+  56018 0
+  55737 8
+  55676 1
+  55473 11
+  55397 3
+  55122 5
+  55109 10
+  54633 2
+  54574 6
+=== Distinct tickets overall ===
+89100
