@@ -1,0 +1,721 @@
+s_store_sk,s_store_id,s_store_name,s_city,s_state,mois,ca_net,quantite_vendue,nb_tickets,nb_lignes_vente,panier_moyen,_sources,_date_traitement,annee
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,1,1651438.90,48810,128,960,12901.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,1,1724706.76,50503,140,1006,12319.33,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,1,1428276.16,41378,116,821,12312.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,1,1573703.84,44864,118,867,13336.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,1,1504845.48,46214,131,927,11487.37,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,1,1539416.99,47511,127,933,12121.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,1,1566459.10,49595,137,984,11434.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,1,1568641.06,45582,119,886,13181.86,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,1,1693506.40,49030,125,963,13548.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,1,1767158.97,55490,136,1067,12993.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,1,1701284.33,48083,129,942,13188.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,1,1627968.16,47531,122,944,13344.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,2,1498478.92,45721,123,907,12182.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,2,1654537.31,48811,124,966,13343.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,2,1346838.91,40881,111,802,12133.68,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,2,1385716.91,40460,115,809,12049.71,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,2,1307364.01,38379,100,757,13073.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,2,1445118.73,41925,115,834,12566.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,2,1425859.97,41705,109,832,13081.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,2,1931862.09,55433,134,1080,14416.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,2,1699093.45,51910,123,1008,13813.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,2,1566486.27,46886,121,904,12946.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,2,1414920.22,44840,124,910,11410.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,2,1764074.82,50590,130,999,13569.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,3,1580708.31,45583,117,896,13510.33,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,3,1711758.96,48891,126,962,13585.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,3,1614075.35,49110,118,974,13678.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,3,1786071.60,52561,140,1057,12757.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,3,1653865.94,47198,124,931,13337.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,3,1419519.61,42447,115,867,12343.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,3,1669531.38,48758,126,946,13250.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,3,1477315.91,47408,120,945,12310.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,3,1759083.97,52933,138,1059,12746.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,3,1909253.11,55102,138,1089,13835.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,3,1623491.77,49002,119,934,13642.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,3,1889949.67,54820,147,1092,12856.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,4,1343587.35,39821,117,806,11483.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,4,1623889.47,47719,126,941,12888.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,4,1536008.30,42847,119,850,12907.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,4,1688121.93,51038,124,1014,13613.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,4,1828827.32,52918,121,1024,15114.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,4,1508333.00,44850,113,907,13348.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,4,1561111.59,46857,128,915,12196.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,4,1453459.77,43657,116,870,12529.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,4,1714692.65,51257,138,1012,12425.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,4,1528495.60,46417,124,906,12326.58,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,4,1451208.56,44979,122,889,11895.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,4,1761362.86,51032,131,997,13445.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,5,1346026.28,44836,121,908,11124.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,5,1543060.24,46219,126,887,12246.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,5,1441201.01,42074,113,839,12753.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,5,1851103.47,53776,140,1076,13222.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,5,1725620.39,53074,146,1049,11819.32,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,5,1766667.10,48708,125,958,14133.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,5,1639666.34,47266,128,929,12809.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,5,1642154.71,52916,139,1062,11814.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,5,1782229.37,47477,123,929,14489.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,5,1567857.04,47224,122,954,12851.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,5,1500246.10,44746,120,877,12502.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,5,1707775.62,48505,125,961,13662.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,6,1714687.36,47910,123,962,13940.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,6,1879194.26,49976,133,979,14129.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,6,1477088.81,40840,104,826,14202.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,6,1702261.52,49558,121,975,14068.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,6,1967495.28,56720,140,1120,14053.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,6,1635082.44,48129,124,918,13186.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,6,1454442.28,44079,113,897,12871.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,6,1721035.52,49333,133,995,12940.12,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,6,1739875.10,51062,121,999,14379.13,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,6,1661584.96,48773,124,965,13399.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,6,1616131.06,46619,132,943,12243.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,6,1540200.35,42744,110,831,14001.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,7,1715144.18,49813,137,982,12519.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,7,1598741.96,47168,120,931,13322.85,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,7,1552452.63,45963,121,901,12830.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,7,1685899.26,49985,139,992,12128.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,7,1591287.43,43641,109,865,14598.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,7,1942965.42,56013,162,1115,11993.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,7,1702746.97,50812,132,1002,12899.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,7,1965568.10,57210,141,1108,13940.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,7,1647848.73,45106,114,879,14454.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,7,1706582.92,50702,124,983,13762.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,7,1411133.96,43148,116,863,12164.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,7,1393638.50,41539,113,835,12333.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,8,1628790.00,46550,122,903,13350.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,8,1886205.60,56820,142,1133,13283.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,8,1921560.21,56070,147,1123,13071.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,8,1578589.91,43446,116,866,13608.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,8,1625286.73,49855,119,975,13657.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,8,1480617.10,44374,109,865,13583.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,8,1740021.96,51039,145,1010,12000.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,8,1740349.52,47702,130,942,13387.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,8,1678385.59,48377,131,928,12812.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,8,1547115.31,44441,121,902,12786.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,8,1424248.10,44348,121,888,11770.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,8,1518691.85,44913,125,891,12149.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,9,1644130.97,50539,139,1018,11828.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,9,1439943.06,44034,105,866,13713.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,9,1388316.19,41052,111,803,12507.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,9,1523555.98,44844,133,899,11455.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,9,1753267.66,50176,131,968,13383.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,9,1703599.22,50016,122,966,13963.93,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,9,1332314.97,36890,109,742,12223.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,9,1681848.13,48469,118,920,14252.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,9,1689758.19,49702,126,960,13410.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,9,1704074.57,49690,134,996,12716.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,9,1728109.08,50431,125,1000,13824.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,9,1661021.81,50895,126,989,13182.71,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,10,1782500.60,53150,129,1024,13817.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,10,1433532.98,41171,116,816,12358.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,10,1762659.34,52531,131,998,13455.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,10,1818656.25,53681,143,1064,12717.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,10,1323035.05,41802,111,845,11919.23,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,10,1568212.31,47893,128,954,12251.66,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,10,1486687.41,42686,116,856,12816.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,10,1639595.34,49645,132,976,12421.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,10,1817207.74,54645,140,1047,12980.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,10,1741608.60,50484,146,1011,11928.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,10,1245570.73,38694,106,772,11750.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,10,1674612.01,51497,130,1013,12881.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,11,1692912.40,52272,134,1029,12633.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,11,1707102.05,47345,125,942,13656.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,11,1423063.21,41607,117,825,12162.93,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,11,1669227.85,47945,127,979,13143.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,11,1596974.27,47291,130,954,12284.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,11,1563287.06,45428,122,878,12813.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,11,1610595.28,45150,109,886,14776.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,11,1882487.91,52539,145,1053,12982.68,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,11,1594349.73,45787,113,914,14109.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,11,1383210.02,40500,107,790,12927.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,11,1501316.54,44828,125,880,12010.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,11,1677494.35,50576,124,996,13528.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,12,1471979.08,43752,119,883,12369.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,12,1365828.46,39701,108,784,12646.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,12,1585986.34,49503,130,969,12199.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,12,2019890.89,55818,148,1109,13647.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,12,1680673.67,48647,127,966,13233.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,12,1821290.44,53618,137,1082,13294.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,12,1608122.42,48758,117,935,13744.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,12,2044258.79,58907,142,1181,14396.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,12,1901099.82,52782,138,1040,13776.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,12,1649151.06,47653,123,940,13407.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,12,1566487.59,44839,114,890,13741.12,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,12,1596286.58,46287,125,894,12770.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2004
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,1,1386332.96,44609,111,861,12489.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,1,1564162.75,47121,129,932,12125.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,1,1471262.07,42102,113,810,13020.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,1,1657308.51,49402,133,987,12460.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,1,1640426.13,48855,133,950,12334.03,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,1,1671777.21,50160,134,1033,12475.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,1,1636695.34,46926,122,926,13415.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,1,1535619.89,45620,117,880,13124.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,1,1733989.60,52840,142,1059,12211.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,1,1792112.77,53660,142,1067,12620.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,1,1493402.84,44713,123,899,12141.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,1,1696543.33,48894,129,974,13151.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,2,1538610.08,47166,123,917,12509.03,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,2,1635471.23,46395,110,924,14867.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,2,1437365.77,41585,112,848,12833.62,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,2,1441365.08,42759,100,847,14413.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,2,1658946.92,48462,136,953,12198.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,2,1278384.86,39052,105,820,12175.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,2,1676310.16,48499,116,907,14450.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,2,1415472.13,40600,109,822,12985.98,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,2,1700370.52,48277,125,936,13602.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,2,1387262.40,41639,113,838,12276.66,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,2,1229436.55,38427,108,751,11383.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,2,1590232.77,46878,123,928,12928.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,3,1850977.23,50304,125,1015,14807.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,3,1725838.29,46725,134,944,12879.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,3,1863520.23,54673,144,1097,12941.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,3,1625050.11,47862,138,955,11775.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,3,1779657.64,50289,132,1014,13482.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,3,1415003.98,42498,116,876,12198.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,3,1579542.38,46970,121,937,13054.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,3,1625626.00,48269,123,952,13216.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,3,1626751.75,48789,135,979,12050.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,3,1419992.56,41937,117,832,12136.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,3,1166051.02,36483,103,740,11320.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,3,1952639.89,54640,140,1090,13947.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,4,1733270.60,49850,132,979,13130.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,4,1755255.23,51161,130,998,13501.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,4,1383737.68,40477,114,833,12138.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,4,1496118.81,45528,123,913,12163.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,4,1450991.79,43334,122,867,11893.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,4,1688487.40,49390,123,999,13727.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,4,1499586.98,44031,118,866,12708.36,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,4,1712762.39,53014,136,1040,12593.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,4,1514321.13,42522,116,828,13054.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,4,1508310.98,43041,119,846,12674.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,4,1500414.77,46258,117,911,12824.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,4,1672169.10,49062,129,1001,12962.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,5,1574749.95,47860,120,926,13122.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,5,1626440.76,46571,123,912,13223.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,5,1719398.06,48787,129,951,13328.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,5,1529003.33,45557,123,899,12430.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,5,1281024.24,38707,104,790,12317.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,5,1895614.79,57456,141,1108,13444.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,5,1747036.61,50433,138,963,12659.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,5,1417775.77,42143,120,874,11814.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,5,1867750.20,51336,127,1013,14706.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,5,1470452.62,45271,118,878,12461.46,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,5,2057339.49,60113,151,1162,13624.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,5,1599865.37,50456,134,998,11939.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,6,1423436.15,40140,109,773,13059.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,6,1435483.35,39269,107,787,13415.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,6,1523285.39,44119,125,867,12186.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,6,1716348.17,48575,129,989,13305.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,6,1834971.91,52141,129,1028,14224.59,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,6,1725452.06,50172,131,992,13171.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,6,1521025.84,46286,113,904,13460.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,6,1650483.52,48592,127,952,12995.93,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,6,1651459.88,47919,128,944,12902.03,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,6,1875113.05,51218,136,1001,13787.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,6,1675726.70,51628,136,1032,12321.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,6,1366458.08,42643,109,855,12536.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,7,1700187.42,49235,138,995,12320.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,7,1698443.90,50201,129,1009,13166.23,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,7,1575013.14,46756,120,916,13125.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,7,1904375.41,52650,132,1044,14427.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,7,1641493.14,49364,124,985,13237.85,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,7,1438926.13,42534,112,838,12847.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,7,1641434.82,48700,131,938,12530.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,7,1800138.59,50376,130,983,13847.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,7,1710816.00,48909,138,991,12397.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,7,1373573.91,38867,109,761,12601.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,7,1639122.65,43910,119,887,13774.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,7,1861811.57,55155,146,1111,12752.13,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,8,1367459.14,45631,124,923,11027.90,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,8,1605553.36,47247,123,934,13053.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,8,1875535.18,54077,131,1046,14317.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,8,1784534.16,49784,136,981,13121.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,8,1414758.58,40591,118,827,11989.48,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,8,1715011.66,45933,125,893,13720.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,8,1456862.86,44828,122,879,11941.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,8,1815625.58,55644,136,1100,13350.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,8,1359627.24,39842,108,791,12589.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,8,1752444.92,53932,141,1068,12428.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,8,1758063.38,54037,135,1064,13022.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,8,1647349.97,47181,128,949,12869.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,9,1852561.78,51764,134,1031,13825.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,9,1492166.90,42313,119,826,12539.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,9,1615140.74,47072,124,935,13025.33,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,9,1361419.68,43608,123,863,11068.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,9,1663094.54,47885,119,927,13975.58,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,9,1647829.28,50505,132,1007,12483.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,9,1864587.28,51034,124,957,15036.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,9,2161657.55,62623,152,1216,14221.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,9,1448811.23,42256,110,851,13171.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,9,1606721.40,46000,116,893,13851.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,9,1309486.42,40014,103,769,12713.46,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,9,1418853.61,42848,123,850,11535.40,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,10,1390208.90,41833,110,832,12638.26,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,10,1978831.13,58977,152,1156,13018.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,10,1907271.42,54531,142,1078,13431.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,10,1454833.94,39826,104,798,13988.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,10,2169330.60,64316,163,1275,13308.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,10,1718224.78,49620,129,968,13319.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,10,1806897.11,50706,131,983,13793.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,10,1533701.38,43598,120,863,12780.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,10,1716919.59,50115,138,1032,12441.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,10,1406620.18,40056,118,812,11920.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,10,1473543.72,41519,109,803,13518.75,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,10,1521941.43,42963,112,842,13588.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,11,1819084.93,53352,127,1028,14323.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,11,1841744.58,55917,135,1121,13642.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,11,1339693.67,40424,107,790,12520.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,11,1588477.53,46082,123,911,12914.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,11,1563983.16,46246,125,925,12511.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,11,1515270.05,43652,122,873,12420.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,11,1706446.87,49894,123,962,13873.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,11,1586990.28,45902,129,910,12302.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,11,1493149.98,44917,120,913,12442.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,11,1786945.63,52457,132,1028,13537.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,11,1737631.53,52585,136,1036,12776.70,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,11,1188593.17,35195,100,699,11885.93,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,12,1856239.35,53941,141,1034,13164.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,12,1663059.82,51046,131,1016,12695.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,12,1441422.59,41219,129,812,11173.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,12,1811028.87,50676,133,988,13616.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,12,1466553.84,41256,118,816,12428.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,12,1700824.21,51152,137,1047,12414.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,12,1555195.31,49533,130,998,11963.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,12,1365603.26,43391,111,823,12302.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,12,1641925.62,45393,123,893,13348.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,12,1600909.10,46729,125,947,12807.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,12,1697456.12,49927,127,989,13365.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,12,1470977.96,42842,123,855,11959.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2001
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,1,1535087.80,44961,124,898,12379.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,1,1578977.74,47814,120,943,13158.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,1,1627687.49,50901,131,990,12425.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,1,1565481.20,46612,122,927,12831.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,1,1675235.14,47770,130,962,12886.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,1,1565517.15,45518,134,880,11682.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,1,1800487.09,52038,143,1051,12590.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,1,1453148.68,41634,113,817,12859.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,1,1553469.53,46420,124,905,12527.98,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,1,1782321.40,49171,135,991,13202.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,1,1659800.87,49439,121,975,13717.36,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,1,1661265.37,49855,131,993,12681.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,2,1520323.48,42698,112,853,13574.32,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,2,1752638.59,49279,123,979,14249.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,2,1414742.80,40210,114,794,12410.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,2,1284176.66,36677,100,730,12841.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,2,1667472.33,46922,130,963,12826.71,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,2,1086044.84,34987,95,679,11432.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,2,1396609.65,40571,113,804,12359.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,2,1815151.44,53047,137,1071,13249.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,2,1419682.27,43028,110,861,12906.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,2,1540433.84,45710,113,900,13632.16,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,2,1682502.88,48875,125,965,13460.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,2,1475167.25,39978,108,834,13658.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,3,1466945.48,40143,111,784,13215.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,3,1566161.27,47224,135,947,11601.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,3,1498475.25,44607,117,913,12807.48,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,3,1850742.19,55736,136,1047,13608.40,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,3,1804515.81,49797,135,968,13366.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,3,1614636.76,49786,129,978,12516.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,3,1569874.94,47566,121,961,12974.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,3,1907045.70,53058,141,1046,13525.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,3,1618555.89,46275,131,918,12355.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,3,1473432.40,43217,114,877,12924.85,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,3,1552248.02,47193,133,954,11671.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,3,1672995.64,46530,125,899,13383.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,4,1477816.44,40658,110,809,13434.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,4,1702318.17,52707,145,1055,11740.13,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,4,1538399.10,46164,133,928,11566.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,4,1579174.12,45256,120,879,13159.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,4,1239723.73,37911,107,772,11586.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,4,1526676.94,45666,122,882,12513.75,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,4,1379224.90,37641,98,735,14073.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,4,1290860.65,38002,100,732,12908.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,4,1926699.12,53005,132,1030,14596.21,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,4,1773799.39,52372,146,1048,12149.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,4,1459845.38,44644,116,858,12584.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,4,1995450.17,57583,150,1105,13303.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,5,1798539.34,52987,141,1053,12755.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,5,1566831.52,46036,124,917,12635.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,5,1407031.92,41713,120,822,11725.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,5,1594548.56,47616,130,957,12265.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,5,1958169.95,58475,154,1156,12715.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,5,1411455.15,46941,122,915,11569.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,5,1228707.64,38094,98,738,12537.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,5,1530978.75,46254,118,909,12974.40,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,5,1853416.36,53514,140,1032,13238.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,5,1764534.73,50262,133,994,13267.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,5,1704331.99,49025,133,972,12814.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,5,1467454.00,40833,115,804,12760.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,6,1590593.24,46690,133,943,11959.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,6,1352463.66,39643,114,794,11863.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,6,1573910.80,44601,114,902,13806.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,6,1510580.02,46854,122,920,12381.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,6,1354643.33,41295,116,821,11677.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,6,1363572.23,38931,113,779,12067.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,6,1508728.71,44737,115,869,13119.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,6,1739634.16,49184,128,972,13590.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,6,1376150.79,40980,109,816,12625.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,6,1671844.99,50007,130,986,12860.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,6,1735449.17,52359,146,1024,11886.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,6,1684578.37,48535,138,960,12207.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,7,1728481.87,49571,130,1004,13296.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,7,1902373.29,54732,140,1089,13588.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,7,1866116.44,54091,139,1046,13425.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,7,1540596.27,47340,119,921,12946.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,7,1551425.52,45195,120,882,12928.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,7,1742222.56,51362,141,1003,12356.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,7,1613726.55,45223,116,870,13911.44,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,7,1535014.30,45089,119,908,12899.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,7,1886719.49,51832,133,1029,14185.86,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,7,1419126.80,41388,122,827,11632.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,7,1684742.55,46249,127,922,13265.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,7,1611244.00,43645,122,879,13206.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,8,1613597.42,44744,117,882,13791.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,8,1697670.69,48008,128,949,13263.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,8,1494663.45,44837,121,892,12352.59,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,8,1582131.68,47725,129,966,12264.59,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,8,1739346.46,51386,126,998,13804.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,8,1550253.58,47740,132,943,11744.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,8,1475289.86,43737,115,862,12828.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,8,1799969.07,53815,137,1052,13138.46,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,8,1467043.29,43725,113,865,12982.68,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,8,1923074.41,54224,136,1054,14140.25,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,8,1535775.89,46911,132,930,11634.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,8,1778198.30,50766,142,1019,12522.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,9,1835939.91,52076,131,993,14014.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,9,1544422.69,45756,122,905,12659.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,9,1268740.24,37106,97,752,13079.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,9,1688428.25,49044,123,988,13727.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,9,1742632.30,52591,141,1042,12359.09,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,9,1482182.92,41604,121,840,12249.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,9,1687291.78,50532,139,997,12138.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,9,1425603.70,45046,119,904,11979.86,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,9,1139426.82,34742,104,712,10956.03,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,9,1828710.07,50665,129,996,14176.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,9,1603579.93,47010,128,963,12527.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,9,1611723.95,45295,125,938,12893.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,10,1948132.00,57105,153,1123,12732.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,10,1538890.69,43992,121,879,12718.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,10,1505991.46,44058,113,854,13327.36,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,10,1730401.22,51066,141,1020,12272.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,10,1441384.60,44059,120,885,12011.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,10,1538519.75,44801,118,874,13038.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,10,1626278.18,47775,129,925,12606.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,10,1513133.93,44491,121,886,12505.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,10,1636819.30,48750,131,981,12494.80,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,10,1886305.84,52865,143,1071,13190.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,10,1466510.24,42715,112,832,13093.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,10,1562704.28,45540,126,936,12402.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,11,1587759.11,45378,119,897,13342.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,11,1653493.02,49526,125,958,13227.94,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,11,1793029.37,52074,140,1075,12807.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,11,1490676.94,43894,115,844,12962.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,11,1713780.70,52338,134,1012,12789.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,11,1627494.95,46185,126,886,12916.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,11,1913563.72,52368,128,997,14949.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,11,1433054.48,40297,110,797,13027.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,11,1414957.28,44185,118,879,11991.16,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,11,1578574.49,44840,121,875,13046.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,11,1608176.50,47159,123,928,13074.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,11,1531011.36,44131,120,894,12758.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,12,658041.82,21826,61,449,10787.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,12,707146.64,20538,52,401,13598.97,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,12,942477.32,26580,60,523,15707.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,12,727744.53,21035,50,411,14554.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,12,504366.43,15355,39,307,12932.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,12,528501.03,15430,44,307,12011.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,12,725775.67,21164,54,416,13440.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,12,709343.90,21841,54,416,13136.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,12,643594.00,19028,53,376,12143.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,12,773125.63,22996,58,450,13329.75,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,12,623677.01,18891,54,360,11549.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,12,534424.78,17006,48,344,11133.85,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2005
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,1,1739243.43,50574,134,1005,12979.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,1,1654370.13,48567,126,941,13129.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,1,1667183.83,49935,133,1033,12535.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,1,1686189.60,51981,134,1031,12583.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,1,1697855.52,46061,126,921,13475.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,1,1703954.05,50224,129,991,13208.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,1,1385079.85,38572,106,784,13066.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,1,1859092.23,53426,137,1053,13570.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,1,1668290.99,46611,125,923,13346.33,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,1,1440510.04,41075,115,847,12526.17,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,1,1641261.08,51151,134,992,12248.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,1,1682839.75,48867,129,973,13045.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,2,1737232.52,50907,131,1013,13261.32,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,2,1457505.00,41800,114,837,12785.13,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,2,1608283.42,46184,122,911,13182.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,2,1790185.40,48309,123,952,14554.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,2,1340691.03,37618,96,751,13965.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,2,1360172.77,38222,103,746,13205.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,2,1213455.17,35501,102,681,11896.62,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,2,1680986.25,49471,121,1004,13892.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,2,1631528.47,48055,118,944,13826.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,2,1465513.09,42611,124,856,11818.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,2,1431525.56,41525,113,816,12668.37,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,2,1520336.03,43745,113,843,13454.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,3,1783310.05,49954,125,967,14266.48,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,3,1346537.29,40374,113,792,11916.26,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,3,1674040.12,49469,123,954,13610.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,3,1814065.12,50494,131,996,13847.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,3,1476103.47,42859,117,846,12616.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,3,1625710.42,48095,129,938,12602.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,3,1712255.76,51124,128,995,13377.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,3,1715014.40,52000,144,1030,11909.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,3,1466786.42,43395,121,858,12122.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,3,1526554.01,46774,123,928,12411.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,3,1639185.43,48319,144,948,11383.23,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,3,1659562.75,48917,130,989,12765.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,4,1581789.81,47494,120,939,13181.58,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,4,1360501.34,40227,118,816,11529.67,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,4,1618774.62,45748,119,917,13603.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,4,1486064.59,45573,123,914,12081.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,4,1618133.97,51032,134,1005,12075.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,4,2047368.53,61054,145,1216,14119.78,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,4,1490574.13,43950,113,877,13190.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,4,1458999.19,44101,128,887,11398.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,4,1376286.11,41949,119,849,11565.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,4,1371086.22,40633,109,802,12578.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,4,1560112.51,45715,125,930,12480.90,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,4,1811828.70,49402,125,983,14494.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,5,1722846.10,46716,124,915,13893.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,5,1627845.93,47083,125,948,13022.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,5,1606860.16,48460,126,957,12752.86,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,5,1557988.61,45625,119,885,13092.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,5,1507214.15,43457,111,861,13578.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,5,1573553.18,46721,130,938,12104.26,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,5,1597872.22,46073,118,911,13541.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,5,1738712.35,51249,141,995,12331.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,5,1948477.76,56403,143,1092,13625.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,5,1700375.86,51590,140,1030,12145.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,5,1624705.29,47440,126,919,12894.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,5,1516183.93,44985,125,914,12129.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,6,1387759.91,40935,111,832,12502.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,6,1625614.61,46704,116,909,14013.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,6,1366665.81,41243,123,829,11111.10,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,6,1531041.33,46093,127,933,12055.44,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,6,1418772.52,39456,112,791,12667.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,6,1568787.86,46375,121,913,12965.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,6,1810024.26,53144,135,1032,13407.59,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,6,1659928.72,51030,128,1017,12968.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,6,1504421.05,45539,116,882,12969.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,6,1896572.85,56516,139,1102,13644.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,6,1597295.10,49271,138,954,11574.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,6,1321672.09,40588,113,819,11696.21,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,7,1744272.63,55997,146,1096,11947.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,7,1648859.54,46981,127,936,12983.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,7,1556413.74,47697,126,923,12352.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,7,1508404.39,42904,116,815,13003.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,7,1776069.41,51873,132,1006,13455.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,7,1662686.80,45949,116,909,14333.51,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,7,1528782.69,41610,113,829,13529.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,7,1785667.23,53977,139,1079,12846.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,7,1905038.34,50796,126,1008,15119.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,7,1894483.68,52996,127,1037,14917.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,7,1637037.15,49235,124,947,13201.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,7,1631545.78,49880,136,983,11996.66,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,8,1659891.63,47560,133,947,12480.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,8,1703532.33,50072,132,987,12905.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,8,1499847.28,42861,118,844,12710.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,8,1783353.59,51235,134,993,13308.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,8,1788067.24,50447,133,999,13444.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,8,1718074.62,53303,133,1003,12917.85,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,8,1725931.42,48527,131,946,13175.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,8,1391146.70,44117,117,865,11890.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,8,1697437.32,49988,132,968,12859.37,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,8,1680830.54,46073,118,920,14244.33,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,8,1944118.97,53768,133,1060,14617.44,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,8,1483286.28,43323,114,862,13011.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,9,1300885.09,38460,101,772,12880.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,9,1489917.90,43734,124,868,12015.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,9,1411170.01,42866,129,859,10939.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,9,1606083.61,44345,109,861,14734.71,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,9,2010806.90,56052,146,1108,13772.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,9,1438473.69,41942,114,815,12618.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,9,1569089.71,45414,112,881,14009.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,9,1737953.48,49715,143,999,12153.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,9,1603882.14,47506,125,931,12831.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,9,1600690.38,46963,122,927,13120.41,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,9,1552620.60,45025,126,897,12322.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,9,1669839.26,47171,127,937,13148.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,10,1698283.91,50580,131,997,12964.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,10,1640273.87,51114,126,1021,13018.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,10,1876634.07,53399,141,1053,13309.46,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,10,1638010.77,48685,127,960,12897.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,10,2132124.20,58708,140,1164,15229.46,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,10,1884007.51,53535,138,1030,13652.23,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,10,1523318.81,43624,116,874,13132.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,10,1797624.98,52811,128,1015,14043.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,10,1761617.15,52606,133,1061,13245.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,10,1546936.08,45306,105,878,14732.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,10,1468626.42,43380,122,896,12037.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,10,1665494.88,48868,121,1007,13764.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,11,1834686.04,51394,131,1011,14005.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,11,1498800.36,45346,113,891,13263.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,11,1451442.56,41385,120,827,12095.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,11,1634458.70,47637,120,921,13620.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,11,1522536.96,48365,126,977,12083.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,11,1478409.10,45802,130,938,11372.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,11,1559780.01,43874,114,834,13682.28,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,11,1587440.29,45579,124,890,12801.94,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,11,1746000.13,52303,133,1023,13127.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,11,1745092.19,50453,128,992,13633.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,11,1508777.00,42504,111,845,13592.59,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,11,1624350.25,47589,129,923,12591.86,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,12,1927343.00,54737,137,1078,14068.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,12,1667387.07,51672,145,1001,11499.22,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,12,1696550.38,48278,128,963,13254.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,12,1686368.32,46998,130,942,12972.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,12,1626760.43,45199,117,882,13903.94,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,12,1302189.36,38932,107,768,12169.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,12,1484107.07,43179,118,830,12577.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,12,1974923.72,57407,149,1133,13254.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,12,1732041.09,48242,128,973,13531.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,12,1660765.99,48802,129,964,12874.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,12,1468558.77,45135,122,912,12037.37,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,12,1482150.30,44178,118,880,12560.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2003
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,1,1542023.48,47375,117,950,13179.69,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,1,1614030.62,48071,127,926,12708.90,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,1,1675428.22,49207,129,981,12987.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,1,1579159.32,45466,125,936,12633.27,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,1,1842181.65,52603,135,1040,13645.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,1,1719137.76,52835,139,1061,12367.90,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,1,1743247.62,54820,147,1080,11858.83,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,1,1520318.47,44048,113,885,13454.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,1,1531026.63,47657,120,919,12758.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,1,1709189.62,50632,130,984,13147.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,1,1823550.12,51882,129,1045,14136.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,1,1330320.71,40342,117,755,11370.26,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,2,1249706.54,34765,97,684,12883.57,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,2,1119428.20,35771,99,717,11307.36,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,2,1255224.08,37081,106,752,11841.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,2,1600525.70,43578,113,880,14163.94,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,2,1286224.28,42036,122,819,10542.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,2,1614006.33,46358,123,914,13122.00,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,2,1610028.33,46402,122,917,13196.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,2,1944161.32,56553,144,1106,13501.12,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,2,1703773.93,49301,123,967,13851.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,2,1504078.94,44165,108,857,13926.66,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,2,1263614.04,36120,105,731,12034.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,2,1441151.83,41909,118,851,12213.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,3,1687861.27,47995,131,951,12884.44,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,3,1706039.73,48486,129,930,13225.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,3,1888433.70,54757,145,1078,13023.68,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,3,1159510.29,34182,98,677,11831.74,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,3,1734772.55,49197,128,1019,13552.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,3,1789214.64,51677,141,1046,12689.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,3,1894931.34,55547,136,1068,13933.32,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,3,1905246.75,57576,140,1155,13608.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,3,1486340.79,42216,106,844,14022.08,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,3,1547962.83,45199,114,927,13578.62,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,3,1430781.96,41569,119,832,12023.38,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,3,1801093.14,53929,141,1046,12773.71,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,4,1781239.82,53084,144,1066,12369.72,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,4,1671812.62,45942,120,911,13931.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,4,1531667.35,47754,120,950,12763.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,4,1511945.08,43465,108,827,13999.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,4,1543332.52,46016,119,872,12969.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,4,1639146.97,50793,136,1000,12052.55,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,4,1605762.50,47272,121,935,13270.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,4,1670636.09,46563,121,918,13806.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,4,1559357.55,45366,119,890,13103.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,4,1627112.47,46149,117,920,13906.94,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,4,1770547.89,51312,133,1020,13312.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,4,1507248.03,43760,120,880,12560.40,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,5,1744711.69,49689,128,975,13630.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,5,1738463.28,51994,133,1031,13071.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,5,1659582.00,47301,126,924,13171.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,5,1643881.48,50972,130,979,12645.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,5,1763838.08,48787,124,962,14224.50,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,5,1581592.68,47353,116,938,13634.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,5,1745510.91,51545,139,1036,12557.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,5,1586357.92,45579,127,893,12491.01,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,5,1464778.87,46009,124,911,11812.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,5,1501452.60,47259,121,936,12408.70,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,5,1657114.17,48425,127,957,13048.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,5,1688438.50,52183,133,1027,12695.03,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,6,1429095.08,41813,110,817,12991.77,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,6,1706108.93,51542,130,1008,13123.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,6,1509800.66,45835,124,905,12175.81,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,6,1577694.65,45644,126,906,12521.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,6,1546637.17,44878,119,934,12996.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,6,1448518.72,42900,104,846,13928.06,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,6,1479854.18,45638,121,921,12230.20,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,6,1719278.10,50654,138,1020,12458.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,6,1469647.54,45589,128,912,11481.62,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,6,1438809.14,43178,129,859,11153.56,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,6,1718351.84,51812,139,1024,12362.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,6,1483458.67,43791,111,850,13364.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,7,1534871.33,45300,116,892,13231.65,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,7,1679384.00,47868,130,935,12918.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,7,1705462.35,53412,127,1041,13428.84,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,7,1523583.32,44722,112,866,13603.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,7,1533565.87,45503,119,902,12887.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,7,1390123.33,42283,116,838,11983.82,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,7,1804986.03,53419,129,1029,13992.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,7,1514745.59,46654,132,918,11475.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,7,1562339.52,46282,126,917,12399.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,7,1593532.72,51055,137,1006,11631.63,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,7,2004782.24,58446,151,1160,13276.70,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,7,1788455.93,52178,133,1019,13447.04,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,8,1425376.72,41338,116,829,12287.73,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,8,1696815.05,50813,138,1011,12295.76,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,8,1455249.52,42497,110,826,13229.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,8,1684308.72,49165,133,983,12663.98,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,8,1623691.33,47261,135,972,12027.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,8,1553507.10,48376,118,961,13165.31,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,8,1601353.86,49897,124,991,12914.14,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,8,1881359.37,56061,145,1113,12974.89,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,8,1760020.08,50697,132,986,13333.49,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,8,1641579.78,47002,130,933,12627.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,8,1858993.14,52661,133,1051,13977.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,8,1454337.05,43580,114,891,12757.34,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,9,1571848.33,49059,134,986,11730.21,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,9,1616398.80,47631,116,963,13934.47,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,9,1727638.81,51658,147,1016,11752.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,9,1411147.25,42548,118,815,11958.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,9,1521654.88,44893,125,896,12173.24,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,9,1625790.32,48439,122,921,13326.15,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,9,1692754.80,52834,135,1050,12538.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,9,1581213.16,46646,118,909,13400.11,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,9,1224765.74,36654,101,719,12126.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,9,1628879.91,47909,114,977,14288.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,9,1496783.44,42257,113,848,13245.87,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,9,1686207.95,48110,135,968,12490.43,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,10,1860127.13,53712,138,1068,13479.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,10,1450184.49,43139,114,849,12720.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,10,1982184.28,54704,131,1044,15131.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,10,1726084.04,48630,136,979,12691.79,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,10,1849110.64,55419,144,1124,12841.05,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,10,1306467.20,39772,108,789,12096.92,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,10,1456254.94,44306,133,866,10949.29,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,10,1588153.20,45364,126,894,12604.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,10,1716805.91,50811,131,998,13105.39,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,10,1667157.32,47895,115,952,14497.02,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,10,1773273.96,50709,131,994,13536.44,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,10,1456550.67,42714,121,850,12037.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,11,1489873.25,42897,115,865,12955.42,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,11,1588565.44,50133,121,961,13128.64,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,11,1726797.55,49879,145,1012,11908.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,11,1489867.15,45775,117,916,12733.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,11,1569783.13,47506,117,936,13416.95,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,11,1667298.47,50418,126,999,13232.53,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,11,1596192.77,47662,133,960,12001.45,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,11,1467949.40,43608,120,865,12232.91,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,11,1570783.66,45705,123,934,12770.60,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,11,1605192.72,46551,129,931,12443.35,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,11,1476718.21,45362,113,868,13068.30,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,11,1490345.03,43133,120,853,12419.54,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+0,AAAAAAAAAAAAAAAA,Forest,Post Oak,CO,12,1968812.43,54967,141,1083,13963.21,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+1,AAAAAAAAAAAAAAAB,Hillside,Jerusalem,TN,12,1467127.75,45904,124,899,11831.68,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+2,AAAAAAAAAAAAAAAC,Sherwood,Mount Vernon,CA,12,1327630.22,41777,114,829,11645.88,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+3,AAAAAAAAAAAAAAAD,Pioneer,Austin,TX,12,1636724.91,47658,119,938,13753.99,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+4,AAAAAAAAAAAAAAAE,Elmwood,Lakeside,KY,12,1523705.67,46891,121,918,12592.61,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+5,AAAAAAAAAAAAAAAF,Egypt,Redland,KY,12,1557094.27,46358,122,907,12763.07,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+6,AAAAAAAAAAAAAAAG,Bloomfield,Union Hill,IN,12,1505284.78,43438,111,868,13561.12,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+7,AAAAAAAAAAAAAAAH,Buffalo,Lewisburg,KS,12,1660256.90,50533,146,1003,11371.62,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+8,AAAAAAAAAAAAAAAI,Williamstown,State Line,TX,12,1367618.08,43522,124,856,11029.18,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+9,AAAAAAAAAAAAAAAJ,Germantown,Pierce,WV,12,1625675.76,48012,126,928,12902.19,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+10,AAAAAAAAAAAAAAAK,Avalon,Cold Springs,TN,12,1677179.00,48109,128,949,13102.96,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002
+11,AAAAAAAAAAAAAAAL,Bedford,Lyons,KY,12,2024415.67,58106,152,1171,13318.52,silver/store_sales + silver/store + silver/date_dim,2026-11-18 15:02:17,2002

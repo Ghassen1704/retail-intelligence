@@ -1,0 +1,11 @@
+Élément,Valeur observée
+Plateforme,Linux-6.18.58.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+Python,3.10.12
+Spark / PySpark,4.2.1
+Java,"openjdk version ""21.0.13.0.3"" 2026-10-24"
+Mode d'exécution,"local[*] (local, une seule machine)"
+Processeurs,8
+Mémoire (Go),7.7
+Données sources,/mnt/c/Users/found/desktop/ipssi/bd/retail_project/J3/data
+Dossier de travail,/mnt/c/Users/found/desktop/ipssi/bd/retail_project/J3/tp3
+Date du traitement,2026-11-18 15:02:17
